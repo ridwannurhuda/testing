@@ -29,4 +29,7 @@ $targetImage = imagecreatetruecolor($targetWidth, $targetHeight);
 imagecopyresampled($targetImage, $imageFile, 0, 0, $srcX, $srcY, $targetWidth, $targetHeight, $srcWidth, $srcHeight);
 
 echo $ratio;
+
 ?>
+
+Perhitungan rasio image
