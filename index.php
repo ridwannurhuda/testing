@@ -37,4 +37,14 @@ antara 2 images
 
 tambah baris
 
-beris berikutnya
+beris berikutnya 
+
+
+basda
+asd
+sd
+asd
+ad
+asd
+asd
+asd
