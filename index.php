@@ -34,3 +34,5 @@ echo $ratio;
 
 Perhitungan rasio image
 antara 2 images
+
+tambah baris
